@@ -1,0 +1,2 @@
+Implement a dictionary using a compact pre-fix tree by reading words and word stems from the file, keep track of partial 
+and completed words in the dictionary
